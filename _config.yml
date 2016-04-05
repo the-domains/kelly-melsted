@@ -1,7 +1,7 @@
 name: 'Kelly Melsted '
 favicon: null
-layout_spectrum: 0.4130638735368848
-typography_spectrum: 0.516337608685717
+layout_spectrum: 0.26127
+typography_spectrum: 0.33771
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.48773055896162987
+  brandStrength: 0.5
   lightness: 0.6737050856463611
   saturation: 0.7792315678671002
   rhythmicContrast: 0.5324154908303171
